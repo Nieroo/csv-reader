@@ -1,0 +1,28 @@
+{
+    "name": "nieroo/csv-reader",
+    "type": "library",
+    "keywords": [
+        "csv",
+        "reader",
+        "parser",
+        "построчно"
+    ],
+    "authors": [
+        {
+            "name": "uorypm",
+            "email": "uorypm@mail.ru",
+            "homepage": "https://dev.uorypm.ru",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "ext-iconv": "*",
+        "ext-fileinfo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
