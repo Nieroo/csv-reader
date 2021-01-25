@@ -22,7 +22,7 @@ composer require nieroo/csv-reader
 ```json
 {
     "require": {
-        "nieroo/csv-reader": "1.0.0"
+        "nieroo/csv-reader": ">=1.0"
     },
     "repositories": [
         {
