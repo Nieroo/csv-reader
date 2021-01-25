@@ -2,3 +2,4 @@
 /public_html
 /vendor
 .DS_Store
+/composer.lock
