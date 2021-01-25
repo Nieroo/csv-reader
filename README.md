@@ -23,7 +23,13 @@ composer require nieroo/csv-reader
 {
     "require": {
         "nieroo/csv-reader": "1.0"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Nieroo/csv-reader"
+        }
+    ]
 }
 ```
 После чего выполните в терминале команду:
